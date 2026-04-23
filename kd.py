@@ -9,8 +9,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # ==========================================
 # ⚙️ STATIC CONFIGURATION
 # ==========================================
-STATIC_TOKEN = "8296795685:AAHgGyvmOZZerCqEz7WnDyoP8pvAQvGSQ1E"
-STATIC_ADMIN_ID = 7714276299
+STATIC_TOKEN = "8713940970:AAHgA87t0OuwmN3J2e3au4f5wWv-CBrBVKY"
+STATIC_ADMIN_ID = 8748495527
 INTENT_API_BASE = "https://your-website.com/pay.html?price={am}"
 DEFAULT_IMG = "https://i.ibb.co/Fk431qrP/IMG-20260329-153839-635.jpg"
 
