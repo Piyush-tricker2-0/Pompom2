@@ -11,7 +11,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # ==========================================
 STATIC_TOKEN = "8713940970:AAHgA87t0OuwmN3J2e3au4f5wWv-CBrBVKY"
 STATIC_ADMIN_ID = 8748495527
-INTENT_API_BASE = "https://flipkart-offer-sell-live.wuaze.com"
+INTENT_API_BASE = "https://flipkart-offer-sell-live.wuaze.com/index.py?price={am"
 DEFAULT_IMG = "https://i.ibb.co/Fk431qrP/IMG-20260329-153839-635.jpg"
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
